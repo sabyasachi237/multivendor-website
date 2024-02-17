@@ -1,1 +1,1 @@
-@copyright by becodemy 2023
+it's a mern multivendor e-com web app
